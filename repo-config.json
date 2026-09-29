@@ -1,0 +1,11 @@
+{
+  "name": "date-normalizer",
+  "description": "Normalize mixed date formats in CSV columns while preserving invalid values in a review report.",
+  "topics": [
+    "python",
+    "dates",
+    "csv",
+    "data-cleaning",
+    "cli"
+  ]
+}

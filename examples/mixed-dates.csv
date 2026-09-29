@@ -1,0 +1,6 @@
+id,event_date,note
+1,2026-09-28,ISO date
+2,2026/10/01,Slash date
+3,15/10/2026,Day first
+4,"Oct 20, 2026",English month
+5,not-a-date,Needs review
